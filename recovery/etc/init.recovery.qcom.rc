@@ -1,5 +1,5 @@
 on early-init
-    # Load Tuxera exFAT module
+    # exfat
     insmod /system/lib/modules/texfat.ko
 
 on boot
