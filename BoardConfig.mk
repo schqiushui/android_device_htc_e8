@@ -20,7 +20,7 @@
 # definition file).
 #
 
-# Model Ids
+# Model Ids (E8 ALL variants)
 # 0PAJ10000 - China Mobile (Single SIM)
 # 0PAJ20000 - China Unicom (Dual SIM)
 # 0PAJ21000 - Bangladesh (Dual SIM)
@@ -28,6 +28,19 @@
 # 0PAJ31000 - Asia (Single SIM)
 # 0PAJ40000 - China Telecom (Dual SIM)
 # 0PAJ50000 - Sprint (Single SIM)
+
+# Model Ids (M8 Single SIM variants)
+# 0P6B10000 - International
+# 0P6B12000 - AT&T/Dev Edition
+# 0P6B13000 - T-Mobile
+# 0P6B16000 - Telus/Rogers (Canada)
+# 0P6B20000 - Verizon
+# 0P6B70000 - Sprint
+
+# Model Ids (M8 Dual SIM variants)
+# 0P6B41000 - Chinese CDMA version
+# 0P6B61000 - Chinese GSM version
+# 0P6B64000 - European GSM version
 
 BOARD_VENDOR := htc
 
